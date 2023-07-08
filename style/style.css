@@ -107,7 +107,7 @@ a{
 }
 
 .contact-text{
-    max-width: 500px;
+    max-width: min(500px, 90%);
     font-weight: 500;
 }
 
